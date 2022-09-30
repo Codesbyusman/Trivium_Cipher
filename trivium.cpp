@@ -1,9 +1,3 @@
-/*
-    Muhammad Usman Shahid 
-            20I-1797
-              CY-T
-*/
-
 #include <iostream>
 #include <bitset>
 #include <math.h>
