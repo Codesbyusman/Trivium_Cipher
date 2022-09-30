@@ -1,0 +1,3 @@
+the Trivum cipher 1 has been implemented going to show this
+cryptography
+stream cipher
